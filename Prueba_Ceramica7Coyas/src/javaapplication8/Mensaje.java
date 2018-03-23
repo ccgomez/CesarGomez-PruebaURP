@@ -19,6 +19,7 @@ public class Mensaje {
     public static void main(String[] args) {
         JOptionPane.showMessageDialog(null, "Bienvenido");
         JOptionPane.showMessageDialog(null, "Ceramica 7 Coyas");
+        JOptionPane.showMessageDialog(null, "Adios");
     }
     
 }
